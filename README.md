@@ -13,3 +13,11 @@ A console-based haunted radio experience with ASCII art, glitch effects, audio p
 - **ChannelManager.java** — Manages podcasts, puzzles, and ghost channel logic.
 - **HauntedRadio.java** — Main program loop (entry point).
 - **MorseCode.java** — Generates and plays Morse code audio.
+
+
+Open repo in GitHub Codespaces.
+
+In terminal:
+
+javac *.java
+java HauntedRadio
