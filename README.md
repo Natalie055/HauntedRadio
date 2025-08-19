@@ -14,10 +14,3 @@ A console-based haunted radio experience with ASCII art, glitch effects, audio p
 - **HauntedRadio.java** — Main program loop (entry point).
 - **MorseCode.java** — Generates and plays Morse code audio.
 
-
-Open repo in GitHub Codespaces.
-
-In terminal:
-
-javac *.java
-java HauntedRadio
