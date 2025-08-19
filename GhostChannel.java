@@ -5,6 +5,6 @@ public class GhostChannel extends Channel {
         super(number, "Ghost Signal");
     }
     @Overridepublic void broadcast() {
-        System.our.println("A ghostly voice emerge: " + "WELCOME TO THE HIDDEN FREQUENCY...'\n" +
+        System.our.println("A ghostly voice emerge: " + "WELCOME TO THE HIDDEN FREQUENCY...'\n" + "save"
     }
 }
